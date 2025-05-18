@@ -14,6 +14,7 @@ BOT_NAME: process.env.BOT_NAME || "Kalulu-Bot",
 MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 
+    
         AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 
